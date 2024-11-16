@@ -1,9 +1,6 @@
 name: Build and Push to GCR
 
 on: workflow_dispatch
-  push:
-    tags:
-      - v*
 
 # Environment variables available to all jobs and steps in this workflow
 #  GKE_EMAIL: ${{ secrets.GKE_EMAIL }} 
