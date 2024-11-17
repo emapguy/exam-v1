@@ -27,4 +27,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: mapguy/science-1:latest
+          tags: mapguy/science-2:latest
