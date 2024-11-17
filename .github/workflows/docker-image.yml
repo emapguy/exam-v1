@@ -27,4 +27,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: mapguy/2-exam:retest
+          tags: mapguy/science-1:latest
